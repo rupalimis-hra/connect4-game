@@ -10,8 +10,8 @@ body{
     display: grid;
      grid-template-columns: repeat(7,80px);
      grid-template-rows: repeat(6,80px);
-     width: 600px;
-     height: 500px;
+     width: 580px;
+     height: 480px;
      margin: 0, auto;
      justify-content: center; 
      background-color: rgb(9, 65, 234);
